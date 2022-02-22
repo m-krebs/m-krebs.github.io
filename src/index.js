@@ -34,6 +34,6 @@ var aText = new Array(
      }
     }
     
-    
+    window.onload = function(){
     typewriter();
-    
+    }
